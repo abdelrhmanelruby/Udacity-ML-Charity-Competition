@@ -1,6 +1,6 @@
 # Udacity-ML-Charity-Competition
-Finding Charity Donors
-My rank is 33 on kaggle.
+- Finding Charity Donors
+- My rank is 33 on kaggle.
 
 ### Data
 
